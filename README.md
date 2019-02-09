@@ -27,10 +27,6 @@ What you will require to run these lessons.
 * Lesson 3 - Operators
 * Lesson 4 - Collection Types
 
-## Part 2 - Example Projects
-
-* Example Projects Coming Soon
-
 ## Updates
 
 More Lessons will be added over time, currenlty in development.
