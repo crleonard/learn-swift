@@ -29,7 +29,7 @@ What you will require to run these lessons.
 
 ## Part 2 - Example Projects
 
-* Coming Soon
+* Example Projects Coming Soon
 
 ## Updates
 
