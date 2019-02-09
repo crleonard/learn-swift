@@ -20,7 +20,7 @@ What things you need to install the software and how to install them
 
 ## Lessons
 
-* Lesson 1 - Variables
+* Lesson 1 - [Variables](https://www.google.com)
 * Lesson 2 - Basic Types
 * Lesson 3 - Operators
 * Lesson 4 - Collection Types
