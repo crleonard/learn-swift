@@ -12,11 +12,13 @@ This project contains a number of Swift Playground files to help you learn the b
 
 * Follow throught the code.
 
-### Prerequisites
+## Prerequisites
 
-What things you need to install the software and how to install them
+What you will require to run these lessons.
 
-* Mac running Xcode.
+* Apple Mac
+* Xcode
+* Time & Patients
 
 ## Lessons
 
@@ -25,11 +27,11 @@ What things you need to install the software and how to install them
 * Lesson 3 - Operators
 * Lesson 4 - Collection Types
 
-#### Updates
+## Updates
 
 More Lessons will be added over time, currenlty in development.
 
 If you require any help or further information, don't hesitate to contact me. 
 * [My Website](https://crleonard.github.io/)
 
-Chris
+Thanks, Chris!
