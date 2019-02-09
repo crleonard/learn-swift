@@ -30,6 +30,6 @@ What things you need to install the software and how to install them
 More Lessons will be added over time, currenlty in development.
 
 If you require any help or further information, don't hesitate to contact me. 
-[My Website](https://crleonard.github.io/)
+* [My Website](https://crleonard.github.io/)
 
 Chris
