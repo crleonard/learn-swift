@@ -20,12 +20,16 @@ What you will require to run these lessons.
 * Xcode
 * Time & Patients
 
-## Lessons
+## Part 1 - Lessons
 
-* Lesson 1 - [Variables](https://github.com/crleonard/learn-swift/blob/master/Lesson_1_Variables.playground.zip)
+* Lesson 1 - Variables
 * Lesson 2 - Basic Types
 * Lesson 3 - Operators
 * Lesson 4 - Collection Types
+
+## Part 2 - Example Projects
+
+* Coming Soon
 
 ## Updates
 
