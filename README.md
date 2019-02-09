@@ -4,13 +4,13 @@ This project contains a number of Swift Playground files to help you learn the b
 
 ## Getting Started
 
-1) Download the Project
+* Download the Project
 
-2) Open the Folder, you will now see each of the playground tutorial files.
+* Open the Folder, you will now see each of the playground tutorial files.
 
-3) Open the Lesson you wish to participte in
+* Open the Lesson you wish to participte in
 
-4) Follow throught the code.
+* Follow throught the code.
 
 ### Prerequisites
 
