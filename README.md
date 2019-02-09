@@ -1,6 +1,6 @@
-# Learn Swift.
+# Learn Swift
 
-This project contains a number of Swift Playground files to help you learn the basics of Swift. The PLaygrounds have been developed to be nice and simple to use.
+This project contains a number of Swift Playground files to help you learn the basics of Swift. The Playgrounds have been developed to be as simple and as understanding as possible. For the best learning experince, follow the lessons in order.
 
 ## Getting Started
 
@@ -17,6 +17,13 @@ This project contains a number of Swift Playground files to help you learn the b
 What things you need to install the software and how to install them
 
 * Mac running Xcode.
+
+## Lessons
+
+* Lesson 1 - Variables
+* Lesson 2 - Basic Types
+* Lesson 3 - Operators
+* Lesson 4 - Collection Types
 
 #### Updates
 
