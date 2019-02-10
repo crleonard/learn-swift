@@ -5,11 +5,8 @@ This project contains a number of Swift Playground files to help you learn the b
 ## Getting Started
 
 * Download the Project
-
 * Open the Folder, you will now see each of the playground tutorial files.
-
 * Open the Lesson you wish to participte in
-
 * Follow throught the code.
 
 ## Prerequisites
@@ -30,8 +27,5 @@ What you will require to run these lessons.
 ## Updates
 
 More Lessons will be added over time, currenlty in development.
-
-If you require any help or further information, don't hesitate to contact me. 
-* [My Website](https://crleonard.github.io/)
 
 Thanks, Chris!
